@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3c9f581.css",
+    "main.js": "/static/js/main.491f56ca.js",
+    "static/media/Amazon-Logo.png": "/static/media/Amazon-Logo.79a1dd45e47017ffa5da.png",
+    "index.html": "/index.html",
+    "main.b3c9f581.css.map": "/static/css/main.b3c9f581.css.map",
+    "main.491f56ca.js.map": "/static/js/main.491f56ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3c9f581.css",
+    "static/js/main.491f56ca.js"
+  ]
+}
